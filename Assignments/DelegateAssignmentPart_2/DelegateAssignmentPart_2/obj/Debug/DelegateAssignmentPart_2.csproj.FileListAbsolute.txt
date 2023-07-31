@@ -1,0 +1,8 @@
+D:\simplilearn\day-17\Assignments\DelegateAssignmentPart_2\DelegateAssignmentPart_2\bin\Debug\DelegateAssignmentPart_2.exe.config
+D:\simplilearn\day-17\Assignments\DelegateAssignmentPart_2\DelegateAssignmentPart_2\bin\Debug\DelegateAssignmentPart_2.exe
+D:\simplilearn\day-17\Assignments\DelegateAssignmentPart_2\DelegateAssignmentPart_2\bin\Debug\DelegateAssignmentPart_2.pdb
+D:\simplilearn\day-17\Assignments\DelegateAssignmentPart_2\DelegateAssignmentPart_2\obj\Debug\DelegateAssignmentPart_2.csproj.AssemblyReference.cache
+D:\simplilearn\day-17\Assignments\DelegateAssignmentPart_2\DelegateAssignmentPart_2\obj\Debug\DelegateAssignmentPart_2.csproj.SuggestedBindingRedirects.cache
+D:\simplilearn\day-17\Assignments\DelegateAssignmentPart_2\DelegateAssignmentPart_2\obj\Debug\DelegateAssignmentPart_2.csproj.CoreCompileInputs.cache
+D:\simplilearn\day-17\Assignments\DelegateAssignmentPart_2\DelegateAssignmentPart_2\obj\Debug\DelegateAssignmentPart_2.exe
+D:\simplilearn\day-17\Assignments\DelegateAssignmentPart_2\DelegateAssignmentPart_2\obj\Debug\DelegateAssignmentPart_2.pdb
